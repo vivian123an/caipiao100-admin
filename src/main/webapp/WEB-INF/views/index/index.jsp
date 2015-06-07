@@ -73,7 +73,7 @@
 									<a href="#">调用接口,须设置用户密码参数：password=123456</a>
 								</p>
 								<p>
-									<a href="http://www.caipiao100.net/caipiao/football/matchList?pdate=2014-12-12&typeCode=jczq-sfp&userName=88888@126.com&password=123456">
+									<a href="http://www.caipiao100.net/caipiao100/football/matchList?pdate=2014-12-12&typeCode=jczq-sfp&userName=88888@126.com&password=123456">
 									示例：www.caipiao100.net/caipiao100/football/matchList?pdate=2014-12-12&typeCode=jczq-sfp&userName=88888@126.com&password=123456</a>
 								</p>
 							</div>
